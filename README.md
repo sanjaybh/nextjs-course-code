@@ -5,6 +5,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Course by
 @maxschwarzmueller
 
+Different branches - git
+02-file-based-routing
+03-prj-routing
+04-data-fetching
+mail
+
 First, run the development server:
 
 ```bash
