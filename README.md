@@ -4,6 +4,15 @@ Course by maxmallion
 
 ## Getting Started
 
+Course by
+@maxschwarzmueller
+
+Different branches - git
+02-file-based-routing
+03-prj-routing
+04-data-fetching
+-> main
+
 First, run the development server:
 
 ```bash
