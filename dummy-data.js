@@ -29,6 +29,26 @@ const DUMMY_EVENTS = [
     image: 'images/extrovert-event.jpg',
     isFeatured: true,
   },
+  {
+    id: 'e4',
+    title: 'NextJS for extroverts',
+    description:
+      'You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.',
+    location: 'My Street 12, 10115 Broke City',
+    date: '2022-06-09',
+    image: 'images/introvert-event.jpg',
+    isFeatured: true,
+  },
+  {
+    id: 'e5',
+    title: 'React JS for Experts',
+    description:
+      'You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.',
+    location: 'My Street 12, 10115 Broke City',
+    date: '2022-05-10',
+    image: 'images/coding-event.jpg',
+    isFeatured: true,
+  },
 ];
 
 export function getFeaturedEvents() {
