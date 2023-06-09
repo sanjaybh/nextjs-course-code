@@ -9,7 +9,7 @@ Different branches - git
 02-file-based-routing
 03-prj-routing
 04-data-fetching
-mail
+-> main
 
 First, run the development server:
 
